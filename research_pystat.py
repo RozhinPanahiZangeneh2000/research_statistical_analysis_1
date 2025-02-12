@@ -5,7 +5,7 @@ from scipy.stats import pearsonr
 import statsmodels.api as sm
 
 # Load data (replace with your dataset)
-data = pd.read_csv('your_data.csv')
+data = pd.read_csv('research_data.csv')
 
 # Quick look at the data to ensure it loaded correctly
 print("Preview of data:")
