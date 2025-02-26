@@ -1,2 +1,2 @@
 # thesis_statistical_analysis_1
-**Repository Description:**   Python code for statistical analysis of resilience, emotional adjustment, and menstrual pain, including descriptive statistics, Pearson correlation, regression, and mediation analysis. This project replicates SPSS-based methods to provide a reproducible workflow for psychological research.
+**Repository Description:**   Python code for statistical analysis of the research I’m writing based on my thesis on The relationship of emotional adjustment and resilience with menstrual pain in female students, including descriptive statistics, Pearson correlation, regression, and mediation analysis. This project replicates SPSS-based methods to provide a reproducible workflow for psychological research.
